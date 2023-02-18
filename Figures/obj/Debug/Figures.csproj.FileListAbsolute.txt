@@ -1,0 +1,8 @@
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\Figures\Figures\bin\Debug\Figures.exe.config
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\Figures\Figures\bin\Debug\Figures.exe
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\Figures\Figures\bin\Debug\Figures.pdb
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\Figures\Figures\obj\Debug\Figures.csproj.AssemblyReference.cache
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\Figures\Figures\obj\Debug\Figures.csproj.SuggestedBindingRedirects.cache
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\Figures\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\Figures\Figures\obj\Debug\Figures.exe
+C:\Users\BrnMa\OneDrive\Documentos\BrnCode\CSharp\Figures\Figures\obj\Debug\Figures.pdb
